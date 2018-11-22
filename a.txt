@@ -7,8 +7,3 @@ aa222
 888
 999
 1111
-<<<<<<< Updated upstream
-222
-=======
-333
->>>>>>> Stashed changes
