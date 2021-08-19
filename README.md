@@ -1,7 +1,7 @@
 # 前端监控
 
 ---
-## frontEndError监控
+## frontEndError前端监控
 ---
 *监控脚本异常、监控资源下载错误、监控网络请求错误，上报参数如下：*    
         info error:错误等级  
