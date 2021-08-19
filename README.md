@@ -21,7 +21,6 @@
     type：请求类型  
     status Code：状态码（status<200 && status >=400）  
     message：错误描述  
-注：参数使用需要与接口对接后确认
 ---
 ## 安装和使用
 ---  
