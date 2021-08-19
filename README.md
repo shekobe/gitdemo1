@@ -1,7 +1,7 @@
 # 前端监控
 
 ---
-## frontEndError监控类型
+## frontEndError监控上报参数：
 ---
 *监控脚本异常*    
     info error:错误等级  
