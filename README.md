@@ -3,19 +3,19 @@
 ---
 ## frontEndError监控类型
 ---
-*监控JS语法错误*    
+*监控脚本异常*    
     info error:错误等级  
     message：错误描述(包括：错误行、错误文件)  
   
 
-*监控css，js文件加载错误*  
+*监控资源下载错误*  
     info error:错误等级  
     file: 加载错误文件的文件名  
     target: 错误文件  
     message：错误描述  
   
 
-*监控ajax请求错误*  
+*监控网络请求错误*  
     info error:错误等级  
     require_url：错误请求url  
     type：请求类型  
